@@ -1,0 +1,72 @@
+.texto {
+	FONT-WEIGHT: 400; FONT-SIZE: 9pt; WORD-SPACING: normal; COLOR: #333333; LINE-HEIGHT: 13pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.pie {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.tit2Centro {
+	FONT-WEIGHT: 700; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #333300; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+A:link {
+	TEXT-DECORATION: none
+}
+.textos {
+	FONT-WEIGHT: 500; FONT-SIZE: 9px; VERTICAL-ALIGN: middle; TEXT-TRANSFORM: uppercase; COLOR: #993300; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.menuinferior {
+	FONT-SIZE: 9px; WORD-SPACING: 1pt; COLOR: #003399; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+.menuserv {
+	FONT-WEIGHT: 500; FONT-SIZE: 9px; WORD-SPACING: 1pt; COLOR: #cccccc; FONT-STYLE: normal; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+.novedades {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff9933; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 2pt
+}
+.gabprensa {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; WORD-SPACING: 1pt; COLOR: #cccccc; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+.novedadestexto {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; WORD-SPACING: 2pt; COLOR: #333333; LINE-HEIGHT: 20px; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 1pt; TEXT-ALIGN: justify
+}
+.fachada {
+	BACKGROUND-IMAGE: url(../img/fachada2.gif); BACKGROUND-REPEAT: no-repeat
+}
+.novedadestitulo1 {
+	FONT-SIZE: 11px; COLOR: #336699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo1 {
+	FONT-SIZE: 11px; COLOR: #336699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo1:hover {
+	FONT-SIZE: 11px; COLOR: #0099ff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.novedadestitulo2 {
+	FONT-SIZE: 11px; COLOR: #336633; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo2 {
+	FONT-SIZE: 11px; COLOR: #336633; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo2:hover {
+	FONT-SIZE: 11px; COLOR: #009900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.novedadestitulo3 {
+	FONT-SIZE: 11px; COLOR: #996600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo3 {
+	FONT-SIZE: 11px; COLOR: #996600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo3:hover {
+	FONT-SIZE: 11px; COLOR: #ff9900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.novedadestitulo4 {
+	FONT-SIZE: 11px; COLOR: #993366; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo4 {
+	FONT-SIZE: 11px; COLOR: #993366; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.novedadestitulo4:hover {
+	FONT-SIZE: 11px; COLOR: #cc99cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.scroll {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #666699; SCROLLBAR-SHADOW-COLOR: #666699; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #666699; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}

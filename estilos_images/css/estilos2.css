@@ -1,0 +1,749 @@
+a.sigueGabprensa		 	{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #0069B3; text-decoration: none;}
+a.sigueGabprensa:hover		{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #935C46; text-decoration: underline;}
+
+
+.menuscontext	 			{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: 400;
+	color: #666666;
+	text-decoration: none;
+	text-transform: none;
+} 
+a.menuscontext	 			{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: 400; color: #666666; text-decoration: none;} 
+a.menuscontext:hover 			{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: 400; color: #333333; text-decoration: none;}
+
+
+
+
+.txt				{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	text-decoration: none;
+	text-align:left;
+	letter-spacing: 0pt;
+	word-spacing: 1pt;
+}
+
+.textoNormal 				{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image:  url(../img/vineta.gif);
+	text-align: justify;
+	line-height: 16px;
+	font-weight: normal;
+
+
+
+
+}
+a.textoNormal 				{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #006699;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image:  url(../img/vineta.gif);
+	text-align: justify;
+
+
+}
+a.textoNormal:hover 				{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #996699;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image:  url(../img/vineta.gif);
+
+}
+.textoNormalPeq { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333; text-decoration: none;}
+.txt3 				{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #ffffff; font-weight: bold; text-decoration: none;}
+.txt4 				{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	text-decoration: none;
+	text-align: center;
+	height: 10px;
+
+}
+.pie 				{
+	color:#666666;
+	font-family:verdana, arial, helvetica, sans-serif;
+	font-size:10px;
+	text-decoration: none;
+
+}
+a.pie 				{
+color:#333333; font-family:verdana, arial, helvetica, sans-serif; font-size:10px
+}
+a.pie:hover				{
+color:#996699; font-family:verdana, arial, helvetica, sans-serif; font-size:10px
+}
+
+.scroll {
+	scrollbar-face-color: #D7D7EA;
+	scrollbar-shadow-color: #663399;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-3dlight-color: #CCCCCC;
+	scrollbar-darkshadow-color: #999999;
+	scrollbar-track-color: #cccccc;
+	scrollbar-arrow-color: #330066;
+	
+}
+
+.scrollalumnado{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #FF9900;
+	scrollbar-highlight-color: #FF9900;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #FF9900;
+	
+}
+
+
+.scrollalumnado{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #FF9900;
+	scrollbar-highlight-color: #FF9900;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #FF9900;
+	
+}
+.scrolldocencia{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #999966;
+	scrollbar-highlight-color: #999966;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #999966;
+	
+}
+
+.scrollextensionuni{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #DD9B23;
+	scrollbar-highlight-color: #DD9B23;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #DD9B23;
+	
+}
+
+.scrollinforgeneral{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #AA679D;
+	scrollbar-highlight-color: #AA679D;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #AA679D;
+	
+}
+
+.scrollinvestiga{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #666699;
+	scrollbar-highlight-color: #666699;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #666699;
+	
+}
+
+.scrollrelaInter{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #006699;
+	scrollbar-highlight-color: #006699;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #006699;
+	
+}
+
+.scrollservicios{
+	scrollbar-face-color: #ffffff;
+	scrollbar-shadow-color: #439B23;
+	scrollbar-highlight-color: #439B23;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-track-color: #eeeeee;
+	scrollbar-arrow-color: #439B23;
+	
+}
+
+/* ------------------ Degradado secciones ------------   */
+.degringogeneral {
+	background-image: url(../img/degr_infogen.jpg);
+	background-repeat:  repeat-y;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+
+.degralumnado {
+
+	background-image: url(../img/degr_alumnado.jpg);
+	background-repeat:  repeat-y;
+}
+.degrdocencia {
+
+	background-image: url(../img/degr_docencia.jpg);
+	background-repeat:  repeat-y;
+}
+.degrext {
+
+
+	background-image: url(../img/degr_exten.jpg);
+	background-repeat:  repeat-y;
+}
+.degrserv {
+
+
+	background-image: url(../img/degr_serv.jpg);
+	background-repeat:  repeat-y;
+}
+.degrinvestiga {
+
+
+	background-image: url(../img/degr_inves.jpg);
+	background-repeat:  repeat-y;
+}
+.degrrelac {
+
+
+
+	background-image: url(../img/degr_relac.jpg);
+	background-repeat:  repeat-y;
+}
+
+
+}.degrigab {
+
+
+
+	background-image: url(../img/degr_gab.jpg);
+	background-repeat:  repeat-y;
+}
+.botones2 {
+	border: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+	vertical-align: text-top;
+	height: 15px;
+	background-color: #E0E0E0;
+
+}
+
+/* ------ Titulos Varios ---------- */
+
+.titulares {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-color: #9999CC;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: center;
+
+
+
+}
+a.titulares {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-color: #9999CC;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: center;
+
+}
+a.titulares:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-color: #663366;
+	text-align: left;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: center;
+
+}
+
+
+
+.tit1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	text-align: left;
+	text-transform: none;
+	padding-left: 15px;
+	letter-spacing: 1pt;
+	word-spacing: 2pt;
+	height: 15px;
+	width: 100%;
+	background-image: url(../img/titflecha.gif);
+	background-repeat: no-repeat;
+	border-top: 0px none #CCCCCC;
+	border-right: 0px none #CCCCCC;
+	border-bottom: 0px none #CCCCCC;
+	border-left: 0px none #CCCCCC;
+
+
+
+
+
+
+
+
+}
+.tit2Izda{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #333333;
+}
+
+.tit2Centro				{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10pt;
+	font-weight: 600;
+	color: #333333;
+	text-decoration: none;
+	height: 12px;
+	text-transform: uppercase;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	padding-right: 2px;
+	text-align: center;
+
+
+
+
+
+
+}
+
+.tit3 {
+	font-family: Geneva, Arial, Helvetica, san-serif;
+	font-size: 11px;
+	font-weight: 600;
+	color: #663366;
+	letter-spacing: 0pt;
+	word-spacing: 1pt;
+	text-decoration: none;
+	padding-left: 15px;
+	background-position: left center;
+	font-style: normal;
+	background-image: url(../img/flechamalva.gif);
+	background-repeat: no-repeat;
+
+
+
+
+
+}
+.tit4				{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	height: 15px;
+	vertical-align: middle;
+	line-height: 14px;
+	letter-spacing: 0pt;
+	word-spacing: 1pt;
+
+
+
+
+
+}
+.titResaltado				{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	background-color: #DBD9E6;
+	border: 1px solid #CCCCCC;
+	text-align: left;
+	text-transform: uppercase;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+	padding-left: 3px;
+	padding-right: 1px;
+	height: 10px;
+	vertical-align: top;
+	padding-top: 0px;
+
+
+
+}
+
+
+/* ------------------ Estilos Mauricio (menu lateral pagina principal) -------------------*/
+
+
+#divFoldCont	{
+	position:absolute;
+	left:2px;
+	top:153px;
+	width:140px;
+	visibility: visible;
+}
+.clFold			{
+	position:absolute;
+	width:150px;
+	visibility: visible;
+}
+.clFoldSub		{position:absolute; left:5px; width:150px; visibility:visible;}
+.clFoldSub2		{position:absolute; left:5px; width:150px; visibility:hidden;}
+a.clFoldLinks	{
+	font-family:Arial, Verdana, Helvetica, Helv;
+	font-size:10px;
+	font-weight:500;
+	text-decoration:none;
+	color:black;
+	line-height: 11px;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+
+}
+a.clFoldLinks:hover	{font-family:Arial, Verdana, Helvetica, Helv; font-size:10px; font-weight:500; text-decoration:none; color:#663399;}
+.clSubLinks		{font-family:Arial, Verdana, Helvetica, Helv; font-size:9px; font-weight:bold; text-decoration:none; color:black;}
+.clSubLinks2	{font-family:Arial, Verdana, Helvetica, Helv; font-size:9px; text-decoration:none; color:black;}  
+.clFoldLinks3 {
+
+	font-family:Arial, Verdana, Helvetica, Helv;
+	font-size:10px;
+	font-weight:500;
+	text-decoration:none;
+	color:#666666;
+	line-height: 11px;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+}
+a.clFoldLinks3:hover {
+
+	font-family:Arial, Verdana, Helvetica, Helv;
+	font-size:10px;
+	font-weight:500;
+	text-decoration:none;
+	color:#663399;
+	line-height: 11px;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+}
+/* ----------------Imagenes secciones -------------------------- */
+
+
+.imagAlumnado {
+	border: 1px solid #FF9900;
+	background-color: #FF9900;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+
+
+}
+.imagDocencia {
+
+	border: 1px solid #999966;
+	background-color: #999966;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.imagServicios {
+
+
+	border: 1px solid #99CC66;
+	background-color: #99CC66;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.imagRalacIntern {
+
+
+	border: 1px solid #6699CC;
+	background-color: #6699CC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.imagInvestiga {
+
+
+	border: 1px solid #666699;
+	background-color: #666699;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.imagInfoGral {
+	border: 1px solid #996699;
+	background-color: #996699;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+
+}
+.imagExtUniv {
+
+
+	border: 1px solid #CC9933;
+	background-color: #CC9933;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.textoCapital {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 35px;
+	color: #000000;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image:  url(../img/vineta.gif);
+	font-weight: 500;
+	line-height: 35px;
+
+
+}
+.tituloFichas {
+	border: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-align: center;
+	font-style: normal;
+	height: 15px;
+	background-color: #E0E0E0;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 15px;
+
+
+
+
+
+
+}
+.reglaHorizontal {
+	border-top: 1px solid #663366;
+	height: 5px;
+	font-size: 1px;
+	text-align: center;
+	vertical-align: sub;
+	text-decoration: none;
+
+
+
+
+
+
+
+}
+.tabla1Titulos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #9999CC;
+	vertical-align: middle;
+
+}
+.tabla1Celda2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+	background-color: #dedede;
+	text-align: center;
+
+}
+.tabla1Celda1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	background-color: #ece2ca;
+	color: #333300;
+	text-align: left;
+	padding-left: 20px;
+
+
+}
+.tabla1Celda1Negr {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #ece2ca;
+	color: #333300;
+	text-align: center;
+
+}
+
+.tit1Centro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: #666699;
+	text-decoration: none;
+	text-align: center;
+	padding-left: 6px;
+	letter-spacing: 0pt;
+	word-spacing: 1pt;
+	height: 15px;
+	width: 100%;
+	font-variant: normal;
+	text-transform: none;
+	vertical-align: middle;
+	border-top: none #666699;
+	border-right: none #666699;
+	border-bottom: 1px solid #666699;
+	border-left: none #666699;
+
+
+
+
+}
+.degrMenu2 {
+	background-image: url(../gabineteprensa/images/degrmen2.jpg);
+	background-repeat:  repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.titResaltadotxt {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: lighter;
+	color: #666666;
+	text-decoration: none;
+	text-align: left;
+	text-transform: none;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+	vertical-align: top;
+}
+a.titResaltadotxt:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: lighter;
+	color: #663399;
+	text-decoration: none;
+	text-align: left;
+	text-transform: none;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+	vertical-align: top;
+}
+
+.fichafacultades {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	left: 20px;
+	background-image: url(../infor_general/imag/fondoficha.gif);
+	text-transform: none;
+
+
+
+}
+.tabla1Celda3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+	text-align: center;
+	background-image: url(../img/bggrisclaro.gif);
+	background-repeat: repeat;
+
+}
+.tit3Copia {
+
+	font-family: Geneva, Arial, Helvetica, san-serif;
+	font-size: 12px;
+	font-weight: 600;
+	color: #666699;
+	letter-spacing: 0pt;
+	word-spacing: 1pt;
+	text-decoration: none;
+	background-position: left center;
+	font-style: normal;
+}
+.tit5 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: 600;
+	color: #666666;
+	text-decoration: none;
+	height: 15px;
+	vertical-align: middle;
+	line-height: 14px;
+	letter-spacing: 0pt;
+	word-spacing: 1pt;
+}
+.titFichasCentros {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #DEE2E2;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}

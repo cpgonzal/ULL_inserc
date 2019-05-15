@@ -1,0 +1,225 @@
+A.sigueGabprensa {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #0069b3; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.sigueGabprensa:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #935c46; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.menuscontext {
+	FONT-WEIGHT: 400; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menuscontext {
+	FONT-WEIGHT: 400; FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menuscontext:hover {
+	FONT-WEIGHT: 400; FONT-SIZE: 9px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.txt {
+	FONT-SIZE: 9pt; WORD-SPACING: 1pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.textoNormal {
+	FONT-WEIGHT: normal; LIST-STYLE-POSITION: outside; FONT-SIZE: 11px; LIST-STYLE-IMAGE: url(../img/vineta.gif); COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+A.textoNormal {
+	LIST-STYLE-POSITION: outside; FONT-SIZE: 11px; LIST-STYLE-IMAGE: url(../img/vineta.gif); COLOR: #006699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+A.textoNormal:hover {
+	LIST-STYLE-POSITION: outside; FONT-SIZE: 11px; LIST-STYLE-IMAGE: url(../img/vineta.gif); COLOR: #996699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textoNormalPeq {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.txt3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.txt4 {
+	FONT-SIZE: 9px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 10px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.pie {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.pie {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+A.pie:hover {
+	FONT-SIZE: 10px; COLOR: #996699; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.scroll {
+	SCROLLBAR-FACE-COLOR: #d7d7ea; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #663399; SCROLLBAR-3DLIGHT-COLOR: #cccccc; SCROLLBAR-ARROW-COLOR: #330066; SCROLLBAR-TRACK-COLOR: #cccccc; SCROLLBAR-DARKSHADOW-COLOR: #999999
+}
+.scrollalumnado {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ff9900; SCROLLBAR-SHADOW-COLOR: #ff9900; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ff9900; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrollalumnado {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ff9900; SCROLLBAR-SHADOW-COLOR: #ff9900; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ff9900; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrolldocencia {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #999966; SCROLLBAR-SHADOW-COLOR: #999966; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #999966; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrollextensionuni {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #dd9b23; SCROLLBAR-SHADOW-COLOR: #dd9b23; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #dd9b23; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrollinforgeneral {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #aa679d; SCROLLBAR-SHADOW-COLOR: #aa679d; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #aa679d; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrollinvestiga {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #666699; SCROLLBAR-SHADOW-COLOR: #666699; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #666699; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrollrelaInter {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #006699; SCROLLBAR-SHADOW-COLOR: #006699; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.scrollservicios {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #439b23; SCROLLBAR-SHADOW-COLOR: #439b23; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #439b23; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+.degringogeneral {
+	FONT-WEIGHT: 600; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../img/degr_infogen.jpg); TEXT-TRANSFORM: uppercase; COLOR: #ffffff; BACKGROUND-REPEAT: repeat-y; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.degralumnado {
+	BACKGROUND-IMAGE: url(../img/degr_alumnado.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.degrdocencia {
+	BACKGROUND-IMAGE: url(../img/degr_docencia.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.degrext {
+	BACKGROUND-IMAGE: url(../img/degr_exten.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.degrserv {
+	BACKGROUND-IMAGE: url(../img/degr_serv.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.degrinvestiga {
+	BACKGROUND-IMAGE: url(../img/degr_inves.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.degrrelac {
+	BACKGROUND-IMAGE: url(../img/degr_relac.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.degrigab {
+	BACKGROUND-IMAGE: url(../img/degr_gab.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.botones2 {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-WEIGHT: bold; FONT-SIZE: 10px; VERTICAL-ALIGN: text-top; BORDER-LEFT: medium none; COLOR: #666666; BORDER-BOTTOM: medium none; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 15px; BACKGROUND-COLOR: #e0e0e0; TEXT-ALIGN: center
+}
+.titulares {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center; FONT-VARIANT: normal; TEXT-DECORATION: none; font-color: #9999CC
+}
+A.titulares {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center; FONT-VARIANT: normal; TEXT-DECORATION: none; font-color: #9999CC
+}
+A.titulares:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center; FONT-VARIANT: normal; TEXT-DECORATION: none; font-color: #663366
+}
+.tit1 {
+	BORDER-RIGHT: #cccccc 0px; BORDER-TOP: #cccccc 0px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../img/titflecha.gif); WORD-SPACING: 2pt; TEXT-TRANSFORM: none; BORDER-LEFT: #cccccc 0px; WIDTH: 100%; COLOR: #333333; BORDER-BOTTOM: #cccccc 0px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: 1pt; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.tit2Izda {
+	FONT-WEIGHT: 700; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+.tit2Centro {
+	PADDING-RIGHT: 2px; FONT-WEIGHT: 600; FONT-SIZE: 10pt; PADDING-BOTTOM: 10px; TEXT-TRANSFORM: uppercase; COLOR: #333333; PADDING-TOP: 15px; FONT-FAMILY: "Times New Roman", Times, serif; HEIGHT: 12px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tit3 {
+	BACKGROUND-POSITION: left center; PADDING-LEFT: 15px; FONT-WEIGHT: 600; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../img/flechamalva.gif); WORD-SPACING: 1pt; COLOR: #663366; BACKGROUND-REPEAT: no-repeat; FONT-STYLE: normal; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+.tit4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; WORD-SPACING: 1pt; VERTICAL-ALIGN: middle; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; HEIGHT: 15px; TEXT-DECORATION: none
+}
+.titResaltado {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 9px; WORD-SPACING: 0pt; VERTICAL-ALIGN: top; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #cccccc 1px solid; COLOR: #666666; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; HEIGHT: 10px; BACKGROUND-COLOR: #dbd9e6; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+#divFoldCont {
+	LEFT: 2px; VISIBILITY: visible; WIDTH: 140px; POSITION: absolute; TOP: 153px
+}
+.clFold {
+	VISIBILITY: visible; WIDTH: 150px; POSITION: absolute
+}
+.clFoldSub {
+	LEFT: 5px; VISIBILITY: visible; WIDTH: 150px; POSITION: absolute
+}
+.clFoldSub2 {
+	LEFT: 5px; VISIBILITY: hidden; WIDTH: 150px; POSITION: absolute
+}
+A.clFoldLinks {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px; WORD-SPACING: 0pt; COLOR: black; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Verdana, Helvetica, Helv; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+A.clFoldLinks:hover {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px; COLOR: #663399; FONT-FAMILY: Arial, Verdana, Helvetica, Helv; TEXT-DECORATION: none
+}
+.clSubLinks {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: Arial, Verdana, Helvetica, Helv; TEXT-DECORATION: none
+}
+.clSubLinks2 {
+	FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: Arial, Verdana, Helvetica, Helv; TEXT-DECORATION: none
+}
+.clFoldLinks3 {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px; WORD-SPACING: 0pt; COLOR: #666666; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Verdana, Helvetica, Helv; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+A.clFoldLinks3:hover {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px; WORD-SPACING: 0pt; COLOR: #663399; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Verdana, Helvetica, Helv; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+.imagAlumnado {
+	BORDER-RIGHT: #ff9900 1px solid; BORDER-TOP: #ff9900 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #ff9900 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #ff9900 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ff9900
+}
+.imagDocencia {
+	BORDER-RIGHT: #999966 1px solid; BORDER-TOP: #999966 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #999966 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #999966 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #999966
+}
+.imagServicios {
+	BORDER-RIGHT: #99cc66 1px solid; BORDER-TOP: #99cc66 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #99cc66 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #99cc66 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #99cc66
+}
+.imagRalacIntern {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #6699cc 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #6699cc 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #6699cc
+}
+.imagInvestiga {
+	BORDER-RIGHT: #666699 1px solid; BORDER-TOP: #666699 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #666699 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #666699 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #666699
+}
+.imagInfoGral {
+	BORDER-RIGHT: #996699 1px solid; BORDER-TOP: #996699 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #996699 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #996699 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #996699
+}
+.imagExtUniv {
+	BORDER-RIGHT: #cc9933 1px solid; BORDER-TOP: #cc9933 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #cc9933 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #cc9933 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #cc9933
+}
+.textoCapital {
+	FONT-WEIGHT: 500; LIST-STYLE-POSITION: outside; FONT-SIZE: 35px; LIST-STYLE-IMAGE: url(../img/vineta.gif); COLOR: #000000; LINE-HEIGHT: 35px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.tituloFichas {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 20px; BORDER-TOP: medium none; PADDING-LEFT: 20px; FONT: bold 11px/15px Arial, Helvetica, sans-serif; BORDER-LEFT: medium none; COLOR: #333333; BORDER-BOTTOM: medium none; HEIGHT: 15px; BACKGROUND-COLOR: #e0e0e0; TEXT-ALIGN: center
+}
+.reglaHorizontal {
+	BORDER-TOP: #663366 1px solid; FONT-SIZE: 1px; VERTICAL-ALIGN: sub; HEIGHT: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tabla1Titulos {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #9999cc; TEXT-DECORATION: none
+}
+.tabla1Celda2 {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #dedede; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tabla1Celda1 {
+	PADDING-LEFT: 20px; FONT-SIZE: 11px; COLOR: #333300; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ece2ca; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.tabla1Celda1Negr {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333300; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ece2ca; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tit1Centro {
+	BORDER-RIGHT: #666699; BORDER-TOP: #666699; PADDING-LEFT: 6px; FONT-WEIGHT: 600; FONT-SIZE: 14px; WORD-SPACING: 1pt; VERTICAL-ALIGN: middle; TEXT-TRANSFORM: none; BORDER-LEFT: #666699; WIDTH: 100%; COLOR: #666699; BORDER-BOTTOM: #666699 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; HEIGHT: 15px; TEXT-ALIGN: center; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.degrMenu2 {
+	FONT-SIZE: 10px; BACKGROUND-IMAGE: url(../gabineteprensa/images/degrmen2.jpg); TEXT-TRANSFORM: uppercase; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.titResaltadotxt {
+	FONT-WEIGHT: lighter; FONT-SIZE: 9px; WORD-SPACING: 0pt; VERTICAL-ALIGN: top; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.titResaltadotxt:hover {
+	FONT-WEIGHT: lighter; FONT-SIZE: 9px; WORD-SPACING: 0pt; VERTICAL-ALIGN: top; TEXT-TRANSFORM: none; COLOR: #663399; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.fichafacultades {
+	FONT-SIZE: 12px; LEFT: 20px; BACKGROUND-IMAGE: url(../infor_general/imag/fondoficha.gif); TEXT-TRANSFORM: none; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tabla1Celda3 {
+	FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../img/bggrisclaro.gif); COLOR: #333333; BACKGROUND-REPEAT: repeat; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tit3Copia {
+	BACKGROUND-POSITION: left center; FONT-WEIGHT: 600; FONT-SIZE: 12px; WORD-SPACING: 1pt; COLOR: #666699; FONT-STYLE: normal; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; LETTER-SPACING: 0pt; TEXT-DECORATION: none
+}
+.tit5 {
+	FONT-WEIGHT: 600; FONT-SIZE: 11px; WORD-SPACING: 1pt; VERTICAL-ALIGN: middle; COLOR: #666666; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 0pt; HEIGHT: 15px; TEXT-DECORATION: none
+}
+.titFichasCentros {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; TEXT-TRANSFORM: uppercase; COLOR: #dee2e2; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
